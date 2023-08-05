@@ -2,7 +2,7 @@
 
 ## GEPS
 
-Essas instruções seguem normalmente para serem usados com banco de dados MySQL, MariaDN e PostgreSQL. Outros bancos podem demandar outras instruções
+Essas instruções normalmente servem para serem usadas com banco de dados MySQL, MariaDB e PostgreSQL. Outros bancos podem demandar outras instruções.
 
 ### Instalação
 
@@ -73,7 +73,7 @@ Coloque a linha abaixo no final do arquivo
 host    all             all             0.0.0.0/32              md5
 ```
 
-#### Criar Usuário de Banco de dados
+#### Criar Usuário de Banco de Dados
 
 + MySQL/MariaDB
 
@@ -209,7 +209,7 @@ Após todos os ajustes terem sido realizados em `projetointegrador/settings.py`,
 
 ### Inicializando o GEPS
 
-Nesse momento, você já terá a base do GEPS configurada e o sistema poderá ser inicializado pelo Apache ou por meio de 
+Nesse momento, você já terá a base do GEPS configurada e o sistema poderá ser inicializado pelo Apache ou por meio de:
 
 + `python3 manage.py runserver 0.0.0.0:80`
 
