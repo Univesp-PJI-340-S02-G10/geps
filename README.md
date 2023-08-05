@@ -1,6 +1,6 @@
-# Projeto Integrador UniVESP 1º Semestre 2023
+# Projeto Integrador Univesp 1º Semestre 2023
 
-## GEPS
+## GEPS - Gestão Eletrônica de Professores Substitutos
 
 Essas instruções normalmente servem para serem usadas com banco de dados MySQL, MariaDB e PostgreSQL. Outros bancos podem demandar outras instruções.
 
